@@ -3,9 +3,9 @@ Router configuration
 
 ?  
 
-explore the command
-enable
-privileged executive mode
+explore the command  
+enable  
+privileged executive mode  
 disable
 user exec mode
 configure terminal
